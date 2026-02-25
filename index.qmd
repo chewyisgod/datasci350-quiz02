@@ -1,0 +1,10 @@
+---
+title: "Gapminder: Life Expectancy and Development"
+---
+
+Gapminder is a country-year dataset (1952 to 2007, 5-year intervals) with life expectancy, population, and GDP per capita for 142 countries
+
+## Pages
+- [Life Expectancy and GDP per Capita](life-gdp.qmd)
+- [Life Expectancy and Population](life-population.qmd)
+- [Country Analysis](country.qmd)
